@@ -7,7 +7,7 @@ import {
 import Color from 'color';
 import * as React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import { TabBar, TabBarIndicator } from 'react-native-tab-view';
+import { TabBar, TabBarIndicator } from '@deelzat/react-native-tab-view';
 
 import type { MaterialTopTabBarProps } from '../types';
 

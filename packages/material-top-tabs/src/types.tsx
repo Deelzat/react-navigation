@@ -14,7 +14,7 @@ import type {
   SceneRendererProps,
   TabBar,
   TabViewProps,
-} from 'react-native-tab-view';
+} from '@deelzat/react-native-tab-view';
 
 export type MaterialTopTabNavigationEventMap = {
   /**

@@ -1,5 +1,5 @@
 {
-  "name": "@react-navigation/material-bottom-tabs",
+  "name": "@deelzat/material-bottom-tabs",
   "description": "Integration for bottom navigation component from react-native-paper",
   "version": "6.1.1",
   "keywords": [
@@ -15,7 +15,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-navigation/react-navigation.git",
+    "url": "git+https://github.com/react-navigation/react-navigation.git",
     "directory": "packages/material-bottom-tabs"
   },
   "bugs": {
@@ -46,6 +46,7 @@
   "devDependencies": {
     "@react-navigation/native": "^6.0.8",
     "@testing-library/react-native": "^7.2.0",
+    "@types/jest": "^27.4.1",
     "@types/react": "^17.0.9",
     "@types/react-native": "~0.64.9",
     "@types/react-native-vector-icons": "^6.4.6",
@@ -79,5 +80,9 @@
         }
       ]
     ]
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "author": ""
 }

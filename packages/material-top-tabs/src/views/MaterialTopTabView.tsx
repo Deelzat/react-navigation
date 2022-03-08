@@ -6,7 +6,7 @@ import {
   useTheme,
 } from '@react-navigation/native';
 import * as React from 'react';
-import { SceneRendererProps, TabView } from 'react-native-tab-view';
+import { SceneRendererProps, TabView } from '@deelzat/react-native-tab-view';
 
 import type {
   MaterialTopTabBarProps,
