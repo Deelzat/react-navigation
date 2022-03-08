@@ -4,7 +4,7 @@ import {
   TabNavigationState,
   useTheme,
 } from '@react-navigation/native';
-import Color from 'color';
+const Color = require('color');
 import * as React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import { TabBar, TabBarIndicator } from '@deelzat/react-native-tab-view';
